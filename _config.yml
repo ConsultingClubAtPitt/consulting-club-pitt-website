@@ -7,8 +7,8 @@ logo:
   mobile_height: "32px"
   mobile_width: "32px"
   desktop: "images/logo/consultingclublogo.png"
-  desktop_height: "80px"
-  desktop_width: "80px"
+  desktop_height: "100px"
+  desktop_width: "100px"
 
 home: 
   limit_services: 6
