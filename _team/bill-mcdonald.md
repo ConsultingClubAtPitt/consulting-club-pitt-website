@@ -1,8 +1,8 @@
 ---
-title: "Bill McDonald"
+title: "Maxwell Brown"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
-jobtitle: "Graphic Designer"
+jobtitle: "Director of Engagement"
 linkedinurl: ""
 weight: 7
 ---
