@@ -5,9 +5,9 @@ description: About
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Our mission is to provide members with the skill, knowledge, and resources to break into and succeed in the consulting industry. Founded in 2018, we were originally Consulting Academy - an academy program ran by the College of Business Administration (ie. Pitt Business) at the University of Pittsburgh. In 2020, we spun-off to form Pitt Business’ sole consulting-focused student organization.
+
+In recent years, Pitt Business has grown programs focused towards management consulting to meet demand from students. Offered programs range from the new Fundamentals of Strategy Consulting course, to site visits at prominant consulting firms including Boston Consulting Group and Accenture. Consulting Club stands to provide further resources for motivated students, and to ready these students and enable them to stand out in recruiting for these consulting roles.
 
 ![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
 
